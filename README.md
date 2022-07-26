@@ -17,5 +17,7 @@ git pull
 # Add new code to online
 `
 git add <file>
-git commit -m <message>
+`
+`
+git commit -m "<message>"
 `
