@@ -10,7 +10,7 @@ https://gist.github.com/cferdinandi/ef665330286fd5d7127d
 `
 git clone https://github.com/Jerrymiah12/Teach.git
 `
-#To get new code to your computer
+# To get new code to your computer
 `
 git pull
 `
