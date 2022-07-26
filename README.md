@@ -18,6 +18,7 @@ git pull
 `
 git add <file>
 `
+<br>
 `
 git commit -m "<message>"
 `
